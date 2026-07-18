@@ -60,7 +60,7 @@ packages:
         repository: cluster-autoscaler/charts/cluster-autoscaler
         registry: 067575901363.dkr.ecr.us-west-2.amazonaws.com
         versions:
-            - name: 9.55.0-1.35-latest
+            - name: 9.55.0-1.36-latest
   - org: kubernetes-sigs
     projects:
       - name: metrics-server
